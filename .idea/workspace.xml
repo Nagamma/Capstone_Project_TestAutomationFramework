@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a28c86-a8b2-4504-83f1-f440fbf29650" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/database.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_utilities/db_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_utilities/db_connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/others.log" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/test_data_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/test_data_extraction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
