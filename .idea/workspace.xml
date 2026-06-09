@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a28c86-a8b2-4504-83f1-f440fbf29650" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/common_utilities/utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rough-work" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data/product_data_from_linux.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_utilities/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_utilities/utilities.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/database.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/database.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/extraction.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/extraction.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_scripts/test_data_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/test_data_extraction.py" afterDir="false" />
